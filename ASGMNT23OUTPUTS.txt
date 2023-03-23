@@ -1,0 +1,145 @@
+Q1) 
+Output:
+
+Enter three numbers: 1
+2 
+3
+
+The maximum of the three numbers is 3
+
+
+Q2)
+output:Enter a character: s
+
+s is an alphabet.
+
+
+Q3)
+output:
+
+Enter the value of n: 12
+The sum of all odd numbers from 1 to 12 is 36
+
+Q4)
+
+output:
+
+Enter a string: 55
+
+The maximum occurring character in the string is '5' with frequency 2
+
+Q5)
+
+output:
+
+20 1020 
+
+
+Q6)
+
+output:
+
+Child process: a = 11
+
+Parent process: a = 10
+
+Q7)
+
+output:
+
+1
+
+4
+
+9
+
+16
+
+25
+
+36
+
+49
+
+64
+
+81
+
+100
+
+121
+
+144
+
+169
+
+196
+
+225
+
+256
+
+289
+
+324
+
+361
+
+400
+
+441
+
+484
+
+529
+
+576
+
+625
+
+676
+
+729
+
+784
+
+841
+
+Q8)
+
+Output:
+
+1200, 1200, 1200
+
+
+Q9)
+
+output: 1
+
+
+Q10)
+
+
+Enter a name (or 'done' to stop): Carrot
+
+Enter a name (or 'done' to stop): Apple
+
+Enter a name (or 'done' to stop): Radish
+
+Enter a name (or 'done' to stop): Jack
+
+Enter a name (or 'done' to stop): done
+
+Enter the order (A for ascending or D for descending): A
+
+Sorted list of names:
+
+Apple
+
+Banana
+
+Carrot
+
+Jack
+
+Radish
